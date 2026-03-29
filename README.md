@@ -38,6 +38,3 @@ conda install -c conda-forge yfinance -y
 
 * Simulation of multiple portfolio allocations
 * Identification of optimal portfolios
-
-
-Your Name
